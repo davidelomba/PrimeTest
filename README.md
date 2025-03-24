@@ -8,7 +8,7 @@ The code includes an implementation of fast modular exponentiation (`esponenziaz
 ---
 
 ## 📂 Files
-- `main.py`: Contains the implementation of the Miller-Rabin primality test.
+- `test_miller_rabin.py`: Contains the implementation of the Miller-Rabin primality test.
 
 ---
 
